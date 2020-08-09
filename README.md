@@ -1,5 +1,3 @@
-<img width="auto" height="150px" src="https://avatars3.githubusercontent.com/u/66289769?s=460&u=d54629dc644cbfa4407e4e4b09ddb1684c6423eb&v=4">
-
 # Alícia Foureaux
 
 ### Hi there! 👋
