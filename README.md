@@ -8,7 +8,6 @@ I am a front-end programmer with minimal back-end knowledge. I love learning new
 :star: &nbsp; Lately, I've been studying hard to become a full-stack developer, improving my knowledge about the back end. Also, I'm studying the GoStack Bootcamp provide by Rocketseat.
 <br/> :woman: &nbsp; I love watching anime and series on Netflix, especially with friends, I also love taking technology courses. My language is Portuguese, but I speak English and I'm learning Japanese.
 <br/> 🎮 &nbsp; Fun fact! I'm a Indie Game Developer on free time.
-<br/> :mailbox: &nbsp; Contact me ->  | 
 
 ### 🚧 Technologies
 - HTML5
