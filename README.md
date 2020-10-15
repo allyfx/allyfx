@@ -18,4 +18,4 @@ I am a fullstack programmer with NodeJS, ReactJS e React Native technologies. I 
 <br/>
 <strong>Technologies:</strong> Html, Css, MySql, Php, JavaScript, JQuery, Sass.
 
-<br/> 📫 &nbsp; Contact me -> [📩 Gmail](mailto:foureauxally@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/al%C3%ADcia-foureaux-7099a41b0/)
+📫 &nbsp; Contact me -> [📩 Gmail](mailto:foureauxally@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/al%C3%ADcia-foureaux-7099a41b0/)
