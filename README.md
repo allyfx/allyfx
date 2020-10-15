@@ -2,12 +2,20 @@
 
 <h3 align="center">Hi there! 👋</h3>
 
-I am a front-end programmer with minimal back-end knowledge. I love learning new technologies and I'm always taking a course in the field to increase my knowledge. :heart:
+I am a fullstack programmer with NodeJS, ReactJS e React Native technologies. I love learning new technologies and I'm always taking a course in the field to increase my knowledge. :heart:
 
 ### 💡 About me
-:star: &nbsp; Lately, I've been studying hard to become a full-stack developer, improving my knowledge about the back end. Also, I'm studying the GoStack Bootcamp provide by Rocketseat.
-<br/> :computer: &nbsp; Front-End Stack: Html5, Css3, JavaScript, BootStrap.
+:star: &nbsp; I recently finished the GoStack bootcamp and the Web Development Course and finally became a fullstack developer.
 <br/> :woman: &nbsp; I love watching anime and series on Netflix, especially with friends, I also love taking technology courses. My language is Portuguese, but I speak English and I'm learning Japanese.
 <br/> 🎮 &nbsp; Fun fact! I'm a Indie Game Developer on free time.
+
+### 💻 Stacks
+<strong>Front-End Stack:</strong> ReactJS
+<br/>
+<strong>Back-end Stack:</strong> NodeJS
+<br/>
+<strong>Mobile Stack:</strong> React Native
+<br/>
+<strong>Technologies:</strong> Html, Css, MySql, Php, JavaScript, JQuery, Sass.
 
 <br/> 📫 &nbsp; Contact me -> [📩 Gmail](mailto:foureauxally@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/al%C3%ADcia-foureaux-7099a41b0/)
