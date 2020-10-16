@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi there! 👋</h3>
 
-I am a fullstack programmer with NodeJS, ReactJS e React Native technologies. I love learning new technologies and I'm always taking a course in the field to increase my knowledge. :heart:
+I am a 15 years old fullstack programmer with NodeJS, ReactJS e React Native technologies. I love learning new technologies and I'm always taking a course in the field to increase my knowledge. :heart:
 
 ### 💡 About me
 :star: &nbsp; I recently finished the GoStack bootcamp and the Web Development Course and finally became a fullstack developer.
