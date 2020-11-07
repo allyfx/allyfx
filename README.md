@@ -12,4 +12,7 @@ I am a 15 years old fullstack programmer with NodeJS, ReactJS e React Native tec
 
 ![Ally's Github Stats](https://github-readme-stats.vercel.app/api?username=allyfx&theme=algolia&show_icons=true)
 
-📫 &nbsp; Contact me -> [📩 Gmail](mailto:foureauxally@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/al%C3%ADcia-foureaux-7099a41b0/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=3f72af&color=112d4e&link=mailto:foureauxally@gmail.com)](mailto:foureauxally@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://github.com/allyfx)](https://github.com/allyfx)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logoColor=white&color=112d4e&link=https://app.rocketseat.com.br/me/alicia-foureaux-06068)](https://app.rocketseat.com.br/me/alicia-foureaux-06068)
+[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&color=112d4e&link=https://allyfx.medium.com/)](https://allyfx.medium.com/)
