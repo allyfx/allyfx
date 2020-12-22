@@ -19,9 +19,9 @@
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=allyfx&show_icons=true&theme=algolia" alt="Ally's stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=allyfx&show_icons=true&theme=algolia" alt="Ally's stats" height=175 />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allyfx&layout=compact&show_icons=true&theme=algolia" alt="Ally's stats" height=195 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allyfx&layout=compact&show_icons=true&theme=algolia" alt="Ally's stats" height=175 />
   </span>
 </p>
