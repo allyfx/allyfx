@@ -3,15 +3,6 @@
 </p>
 
 <p align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=allyfx&show_icons=true&theme=algolia" alt="Ally's stats" height=175 />
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allyfx&layout=compact&show_icons=true&theme=algolia" alt="Ally's stats" height=175 />
-  </span>
-</p>
-
-<p align="center">
   <a href="mailto:foureauxally@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=3f72af&color=112d4e&link=mailto:foureauxally@gmail.com" alt="Ally's Gmail" />
   </a>
