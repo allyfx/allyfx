@@ -10,7 +10,7 @@
 
 #### Fun facts ⚡️
 - 🎥 I love cinema: movies, series, animes.
-- 👶 I started working with programming at 14yo.
+- 👶 I started working with programming when I was 14yo.
 - 🐱 I have 4 cats.
 
 #### Stacks ⚙️
