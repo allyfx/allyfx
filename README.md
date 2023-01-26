@@ -1,18 +1,18 @@
 
-### Alícia Foureaux 👋🏼
+### Hi! I'm Alícia Foureaux 👋🏼
 
 #### About me 🧑
-- 📱  I'm a Mobile Developer
+- 📱 I'm a Mobile Developer
 - 🚀 My goal is to become a Mobile Specialist
 - 💥 Love solving problems
 - 💎 I learn about everything (Video editing, Mixology, Robotics, Writting...)
 - 🤝 Love to help
-- 🧳 Currently working as a Mobile Developer at @DX.CO and as a Tech Lead Mobile at @PlinCondominios
-- 🎤 Host of Space Cast Podcast
+- 🧳 Currently working as a Mobile Developer at @DX.CO and as a Lead Mobile at @PlinCondominios
+- 🎤 Host and creator of Space Cast Podcast
 
 #### Fun facts ⚡️
 - 🎥 I love cinema: movies, series, animes.
-- 👶 I started working with programming when I was 14yo.
+- 👶 I started working as a programmer when I was 14yo, but I code since 12yo!
 - 🐱 I have 4 cats.
 
 #### Technologies ⚙️
