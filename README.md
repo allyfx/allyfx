@@ -25,5 +25,5 @@
 ![CSS3 Badge](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=FLUTTER&logoColor=white)
 
 #### Where to find me 📌
-[![CSS3 Badge](https://img.shields.io/badge/-Alícia_Foureaux-397fb5?style=flat-square&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/alicia-foureaux/)
-[![CSS3 Badge](https://img.shields.io/badge/-ally@foureauxcode.com-ee4337?style=flat-square&logo=GMAIL&logoColor=white)](mailto:ally@foureauxcode.com)
+[![Linktree Badge](https://img.shields.io/badge/-Redes_Sociais_|_Linktree-397fb5?style=flat-square&logo=LINKTREE&logoColor=white)](https://linktr.ee/allydev)
+[![Email Badge](https://img.shields.io/badge/-ally@foureauxcode.com-ee4337?style=flat-square&logo=GMAIL&logoColor=white)](mailto:ally@foureauxcode.com)
