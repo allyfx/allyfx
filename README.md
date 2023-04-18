@@ -7,12 +7,12 @@
 - 💥 Love solving problems
 - 💎 I learn about everything (Video editing, Mixology, Robotics, Writting...)
 - 🤝 Love to help
-- 🧳 Currently working as a Mobile Developer at @DX.CO and as a Lead Mobile at @PlinCondominios
+- 🧳 Currently working as a Lead Mobile at @PlinCondominios
 - 🎤 Host and creator of Space Cast Podcast
 
 #### Fun facts ⚡️
 - 🎥 I love cinema: movies, series, animes.
-- 👶 I started working as a programmer when I was 14yo, but I code since 12yo!
+- 👶 I started working as a programmer when I was 14, but I code since 12!
 - 🐱 I have 4 cats.
 
 #### Technologies ⚙️
@@ -25,5 +25,5 @@
 ![CSS3 Badge](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=FLUTTER&logoColor=white)
 
 #### Where to find me 📌
-[![Linktree Badge](https://img.shields.io/badge/-Redes_Sociais_|_Linktree-397fb5?style=flat-square&logo=LINKTREE&logoColor=white)](https://linktr.ee/allydev)
+[![Linktree Badge](https://img.shields.io/badge/-Social_Media_|_Linktree-397fb5?style=flat-square&logo=LINKTREE&logoColor=white)](https://linktr.ee/allydev)
 [![Email Badge](https://img.shields.io/badge/-ally@foureauxcode.com-ee4337?style=flat-square&logo=GMAIL&logoColor=white)](mailto:ally@foureauxcode.com)
