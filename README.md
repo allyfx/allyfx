@@ -2,12 +2,11 @@
 ### Hi! I'm Alícia Foureaux 👋🏼
 
 #### About me 🧑
-- 📱 I'm a Mobile Developer
+- 📱 I'm a Software Engineer
 - 🚀 My goal is to become a Mobile Specialist
 - 💥 Love solving problems
 - 💎 I learn about everything (Video editing, Mixology, Robotics, Writting...)
 - 🤝 Love to help
-- 🧳 Currently working as a Lead Mobile at @PlinCondominios
 - 🎤 Host and creator of Space Cast Podcast
 
 #### Fun facts ⚡️
@@ -22,7 +21,6 @@
 ![React Badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black&link=https://nextjs.org/)
 ![ReactNative Badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)
-![CSS3 Badge](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=FLUTTER&logoColor=white)
 
 #### Where to find me 📌
 [![Linktree Badge](https://img.shields.io/badge/-Social_Media_|_Linktree-397fb5?style=flat-square&logo=LINKTREE&logoColor=white)](https://linktr.ee/allydev)
