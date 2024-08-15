@@ -1,5 +1,5 @@
 
-# Hi! I'm Alícia Foureaux 👋🏼
+# Hi! I'm Ally 👋🏼
 
 ## About me 🧑
 - 📱 I'm a Senior Software Engineer
