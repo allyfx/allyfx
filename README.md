@@ -22,8 +22,6 @@
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)
 ![ReactNative Badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)
-### Currently studying 🔥
-![Swift Badge](https://img.shields.io/badge/-Swift-563D7C?style=flat-square&logo=swift&logoColor=white&link=https://developer.apple.com/swift/)
 
 ## Where to find me 📌
 [![Linktree Badge](https://img.shields.io/badge/-Social_Media_|_Linktree-397fb5?style=flat-square&logo=LINKTREE&logoColor=white)](https://linktr.ee/allydev)
