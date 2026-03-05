@@ -1,9 +1,9 @@
 # Hi! I'm Ally 👋🏼
 
 ## About me 🧑
-- 📱 Senior Software Engineer
+- 📱 Senior Software Engineer | Team Lead
 - 💥 Love solving problems
-- 💎 I learn about everything (Video editing, Mixology, Robotics, Writting...)
+- 💎 I learn about everything (Video editing, Mixology, Writting...)
 - 🤝 Love to help
 - ✌️ Curious and passionate about programming
 
@@ -23,5 +23,4 @@
 ![ReactNative Badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)
 
 ## Where to find me 📌
-[![Linktree Badge](https://img.shields.io/badge/-Social_Media_|_Linktree-397fb5?style=flat-square&logo=LINKTREE&logoColor=white)](https://linktr.ee/allydev)
 [![Email Badge](https://img.shields.io/badge/-ally@foureauxcode.com-ee4337?style=flat-square&logo=GMAIL&logoColor=white)](mailto:ally@foureauxcode.com)
